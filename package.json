@@ -1,0 +1,12 @@
+{
+  "name": "scope-closures",
+  "version": "1.0.0",
+  "description": "we are learning about scope and closures",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["Closures","Scope", "Hoisting", "JavaScript"],
+  "author": "Juan Montilla <montillasanchezjuancarlos@gmail.com>",
+  "license": "MIT"
+}
